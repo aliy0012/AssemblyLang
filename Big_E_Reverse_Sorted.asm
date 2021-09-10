@@ -1,7 +1,6 @@
 ; Big_E_Reverse_Sorted.asm
 
-; Name(s): Ali Aliyev, Mesut Doganguzel, Yavuz Tarik Dengiz
-; Student Numbers: 041013373 , 41014665, 041009179
+
 ; Date: 2021-07-29
 
 ; Purpose       Copy and Convert Little Endian data to a new Big Endian data array
